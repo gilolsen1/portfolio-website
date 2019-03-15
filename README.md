@@ -1,3 +1,42 @@
+#Gil's Project Notes
+
+
+
+##PURPOSE
+
+-Read and work with someone else's code. 
+-Create a portfolio to showcase production
+-Deploy project to internet (vs local server use/github only)
+
+##STACK + RESOURCES
+
+-html/ css/ javascript??
+-html5up
+-netifly
+
+
+
+##BLOCKERS
+
+
+##BREAKTHROUGHS
+
+
+## TIMELINE / (EFFICIENCY)
+
+##WHAT I LEARNED
+
+
+##What's next:
+
+
+
+
+
+
+
+#LAMBDA'S PROJECT READ.ME
+
 # Build A Portfolio Website
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
