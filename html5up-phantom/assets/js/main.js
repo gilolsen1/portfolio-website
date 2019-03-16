@@ -11,12 +11,12 @@
 
 	// Breakpoints.
 		breakpoints({
-			xlarge:   [ '1281px',  '1680px' ],
-			large:    [ '981px',   '1280px' ],
+			//xlarge:   [ '1281px',  '1680px' ],//
+			large:    [ '981px',   '1680px' ], //switch from 1280 to 1680
 			medium:   [ '737px',   '980px'  ],
 			small:    [ '481px',   '736px'  ],
-			xsmall:   [ '361px',   '480px'  ],
-			xxsmall:  [ null,      '360px'  ]
+			xsmall:   [ '301px',   '480px'  ], //altered here//
+			xxsmall:  [ null,      '300px'  ]
 		});
 
 	// Play initial animations on page load.
