@@ -2,13 +2,13 @@
 
 
 
-##PURPOSE
+## PURPOSE
 
 -Read and work with someone else's code. 
 -Create a portfolio to showcase production
 -Deploy project to internet (vs local server use/github only)
 
-##STACK + RESOURCES
+## STACK + RESOURCES
 
 -html/ css/ javascript??
 -html5up
@@ -16,7 +16,7 @@
 
 
 
-##BLOCKERS
+## BLOCKERS
 
 Could not find CSS to control font size of name next to profle image, turning to 150% in inspector had no result.
 yet to find tile images to replace with my content. 
@@ -26,7 +26,7 @@ DEPLOYMENT:
 github would not launch because code is not merged with master.
 netflify seemed to deploy properly (using correct branch) but is not rendering in browser.   
 
-##BREAKTHROUGHS
+## BREAKTHROUGHS
 
 -reviewing transistions in css
 -seems like breakpoints for responsive design is handled with it's own javascript file. did not tweak yet. 
@@ -36,10 +36,10 @@ netflify seemed to deploy properly (using correct branch) but is not rendering i
 
 ## TIMELINE / (EFFICIENCY)
 
-##WHAT I LEARNED
+## WHAT I LEARNED
 
 
-##What's next:
+## What's next:
 
 Transitions: Webkits: moz, webkit, ms
 line 1822
@@ -53,7 +53,7 @@ line 1822
 
 
 
-#LAMBDA'S PROJECT READ.ME
+# LAMBDA'S PROJECT READ.ME
 
 # Build A Portfolio Website
 
