@@ -18,9 +18,14 @@
 
 ##BLOCKERS
 
+Could not find CSS to control font size of name next to profle image, turning to 150% in inspector had no result.
+yet to find tile images to replace with my content. 
+.js breakpoints file is all on line 2. Got an EsLint error popup from VS code when opened. 
 
 ##BREAKTHROUGHS
 
+reviewing transistions in css
+seems like breakpoints for responsive design is handled with it's own javascript file. did not tweak yet. 
 
 ## TIMELINE / (EFFICIENCY)
 
