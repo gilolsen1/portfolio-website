@@ -22,10 +22,17 @@ Could not find CSS to control font size of name next to profle image, turning to
 yet to find tile images to replace with my content. 
 .js breakpoints file is all on line 2. Got an EsLint error popup from VS code when opened. 
 
+DEPLOYMENT:
+github would not launch because code is not merged with master.
+netflify seemed to deploy properly (using correct branch) but is not rendering in browser.   
+
 ##BREAKTHROUGHS
 
-reviewing transistions in css
-seems like breakpoints for responsive design is handled with it's own javascript file. did not tweak yet. 
+-reviewing transistions in css
+-seems like breakpoints for responsive design is handled with it's own javascript file. did not tweak yet. 
+-found javascript breakpoints in .main jss instead of .minimized version. 
+-learned min.js is to collapse the data for computers to read and gain speed.
+-
 
 ## TIMELINE / (EFFICIENCY)
 
